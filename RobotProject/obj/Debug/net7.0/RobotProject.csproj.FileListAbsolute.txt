@@ -1,0 +1,14 @@
+D:\MyData\ASP.NETCORE\RobotProject\RobotProject\bin\Debug\net7.0\RobotProject.exe
+D:\MyData\ASP.NETCORE\RobotProject\RobotProject\bin\Debug\net7.0\RobotProject.deps.json
+D:\MyData\ASP.NETCORE\RobotProject\RobotProject\bin\Debug\net7.0\RobotProject.runtimeconfig.json
+D:\MyData\ASP.NETCORE\RobotProject\RobotProject\bin\Debug\net7.0\RobotProject.dll
+D:\MyData\ASP.NETCORE\RobotProject\RobotProject\bin\Debug\net7.0\RobotProject.pdb
+D:\MyData\ASP.NETCORE\RobotProject\RobotProject\obj\Debug\net7.0\RobotProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyData\ASP.NETCORE\RobotProject\RobotProject\obj\Debug\net7.0\RobotProject.AssemblyInfoInputs.cache
+D:\MyData\ASP.NETCORE\RobotProject\RobotProject\obj\Debug\net7.0\RobotProject.AssemblyInfo.cs
+D:\MyData\ASP.NETCORE\RobotProject\RobotProject\obj\Debug\net7.0\RobotProject.csproj.CoreCompileInputs.cache
+D:\MyData\ASP.NETCORE\RobotProject\RobotProject\obj\Debug\net7.0\RobotProject.dll
+D:\MyData\ASP.NETCORE\RobotProject\RobotProject\obj\Debug\net7.0\refint\RobotProject.dll
+D:\MyData\ASP.NETCORE\RobotProject\RobotProject\obj\Debug\net7.0\RobotProject.pdb
+D:\MyData\ASP.NETCORE\RobotProject\RobotProject\obj\Debug\net7.0\RobotProject.genruntimeconfig.cache
+D:\MyData\ASP.NETCORE\RobotProject\RobotProject\obj\Debug\net7.0\ref\RobotProject.dll
