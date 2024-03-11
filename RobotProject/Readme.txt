@@ -1,4 +1,4 @@
-﻿Open the RobotProject.sln and build Release. The application will be here:
+﻿Open the RobotProject.sln and build the project. The application will be here:
 ..RobotProject\bin\Debug\net7.0
 
 And you're ready to go!
